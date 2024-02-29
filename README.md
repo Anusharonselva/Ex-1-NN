@@ -111,24 +111,43 @@ print(y_test)
 
 ## OUTPUT:
 d.head()
+
 ![Screenshot 2024-02-29 231340](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/1ed56538-c4c4-4144-ba09-9816749b2c6f)
+
 X Values:
+
 ![Screenshot 2024-02-29 231706](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/5cfb082a-691b-4f79-ad91-df0d2c5d2217)
+
 Y Values:
+
 ![Screenshot 2024-02-29 231742](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/a9c7c36a-334a-4861-bae3-75c5930be141)
+
 Null Values:
+
 ![Screenshot 2024-02-29 231823](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/88e7add7-92df-481b-a89d-491a2895546a)
+
 Duplicated Values:
+
 ![Screenshot 2024-02-29 231907](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/7f1be0bd-eade-40b0-b903-e6f1a861c7fe)
+
 Description:
+
 ![Screenshot 2024-02-29 231949](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/c974abb9-d27d-4dcc-b31c-c454fc27d4b8)
+
 Normalized Dataset:
+
 ![Screenshot 2024-02-29 232054](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/e0dd8959-331e-4297-be8e-36180f469dbd)
+
 Training Data:
+
 ![Screenshot 2024-02-29 232201](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/1cf17076-60ef-40ca-833a-d88e419252cd)
+
 X_test:
+
 ![Screenshot 2024-02-29 232211](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/1f900fef-554e-4392-aaae-4ed2798adf17)
+
 length :
+
 ![Screenshot 2024-02-29 232331](https://github.com/Anusharonselva/Ex-1-NN/assets/119405600/1ddea0a8-4e8a-4a2b-8820-3488c6edda0d)
 
 
